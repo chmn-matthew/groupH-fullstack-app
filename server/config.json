@@ -1,0 +1,19 @@
+{
+    "database": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "",
+        "database": "intprog"
+    },
+    "secret": "Hello World",
+    "emailFrom": "info@node-mysql-signup-verification-api.com",
+    "smtpOptions": {
+        "host": "smtp.ethereal.email",
+        "port": 587,
+        "auth": {
+            "user": "alexa.nikolaus80@ethereal.email",
+            "pass": "NzTPm2rfzwcxWN9jhN"
+        }
+    }
+}
