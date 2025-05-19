@@ -1,6 +1,4 @@
 export const environment = {
     production: true,
-    apiUrl: 'https://grouph-fullstack-app-production.up.railway.app'
+    apiUrl: 'https://grouph-fullstack-app-production-70c5.up.railway.app'
 }
-
-// CHANGE
