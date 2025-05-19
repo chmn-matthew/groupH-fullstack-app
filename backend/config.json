@@ -1,6 +1,6 @@
 {
     "database": {
-        "url": "postgresql://postgres:SMgiCNYSYikSgUjCGvYAaxdqpSxMvfZd@turntable.proxy.rlwy.net:52376/railway",
+        "url": "postgresql://postgres:lquTurDySWxdheFnhoGmGVlUQoFwLmOS@ballast.proxy.rlwy.net:58469/railway",
         "ssl": true
     },
     "secret": "secretmakabawpalangka",
@@ -8,8 +8,8 @@
         "host": "smtp.gmail.com",
         "port": 587,
         "auth": {
-            "user": "huntersungjinwoo321@gmail.com",
-            "pass": "evjf ytho yuie bzfe"
+            "user": "ginolosjeffz@gmail.com",
+            "pass": "iqmy ccxj afhb dzdq"
         }
     }
 }
