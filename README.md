@@ -7,9 +7,17 @@
       PGPASSWORD=SMgiCNYSYikSgUjCGvYAaxdqpSxMvfZd psql -h turntable.proxy.rlwy.net -U postgres -p 52376 -d railway
 
 
-    Website URL
-    https://group-h-fullstack-app.vercel.app/
+   # Website URL
+    (Bonch Reuben Eturma)
+    https://group-h-fullstack-app.vercel.app
     Admin: boncheturma.12@gmail.com    Password: 123123
     
     Eturma Database
     PGPASSWORD=lquTurDySWxdheFnhoGmGVlUQoFwLmOS psql -h ballast.proxy.rlwy.net -U postgres -p 58469 -d railway
+
+# Website URL's:
+(Eric John Lobo)
+group-h-fullstack-app-lobo.vercel.app
+Admin: ericjohn12344@gmail.com    Password: 123123
+
+Lobo Database
