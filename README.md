@@ -3,3 +3,6 @@ PGPASSWORD=SMgiCNYSYikSgUjCGvYAaxdqpSxMvfZd psql -h turntable.proxy.rlwy.net -U 
 
 Website URL
 https://group-h-fullstack-app-ginolos.vercel.app/
+
+Admin- ginolosjeff@gmail.com
+Password- 123123
