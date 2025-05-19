@@ -21,3 +21,4 @@ group-h-fullstack-app-lobo.vercel.app
 Admin: ericjohn12344@gmail.com    Password: 123123
 
 Lobo Database
+PGPASSWORD=UTyuHQmZzhrFJyQtiqyaHZTBYKFNywJG psql -h nozomi.proxy.rlwy.net -U postgres -p 46895 -d railway
