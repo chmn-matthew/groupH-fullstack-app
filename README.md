@@ -17,7 +17,7 @@
 
 # Website URL's:
     (Eric John Lobo)
-    group-h-fullstack-app-lobo.vercel.app
+    https://group-h-fullstack-app-lobo.vercel.app
     Admin: ericjohn12344@gmail.com    Password: 123123
     
     Lobo Database
