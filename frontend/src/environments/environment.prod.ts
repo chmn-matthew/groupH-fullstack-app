@@ -1,6 +1,6 @@
 export const environment = {
     production: true,
-    apiUrl: 'https://user-management-system-angular-master-production.up.railway.app'
+    apiUrl: 'https://grouph-fullstack-app-production.up.railway.app'
 }
 
 // CHANGE
